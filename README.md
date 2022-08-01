@@ -1,2 +1,2 @@
 # jrinconre.github.io
-Repositorio de prueba para página web creada mediante giy y R
+Repositorio de prueba para página web creada mediante git y R
